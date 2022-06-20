@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="47" passed="43" failed="4" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-20T08:15:16 CDT" name="Default suite" finished-at="2022-06-20T08:15:20 CDT" duration-ms="3738">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-06-20T08:15:16 CDT" name="Default test" finished-at="2022-06-20T08:15:20 CDT" duration-ms="3738">
+      <class name="runner.Allure">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:16 CDT" name="setUpClass" finished-at="2022-06-20T08:15:17 CDT" duration-ms="747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@30bbcf91]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:17 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="689" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of Screens page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="80" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of user Sign in page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="80" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of register page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="97" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of team page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="66" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of testimonials page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="36" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of forgot password page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="28" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of contact page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of blogs page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of featured content page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of home page in the screen list"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="33" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of view recent diets page in the screen list before signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:18 CDT" duration-ms="34" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of view recent diets page in the screen list after signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:18 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="48" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of view recent test reports page in the screen list before signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of view recent test reports page in the screen list after signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="51" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of add new patient page in the screen list before signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="37" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of add new patient page in the screen list after signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of Dietician home page in the screen list before signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of Dietician home page in the screen list after signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="28" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of My patients page in the screen list before signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="41" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of My patients page in the screen list after signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="38" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of Confirm health conditions page in the screen list before signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="57" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of Confirm health conditions page in the screen list after signing in with dietician account"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["List of screens functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="35" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation to Confirm Health Conditions and Generate new Diet plan page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="37" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to browse a pdf file"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="75" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to upload a file without selecting a document"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="65" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to upload a file with proper file format and size"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [File uplaoded successfully] but found [File uploaded successfully]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [File uplaoded successfully] but found [File uploaded successfully]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at stepdefinition.Createdietplan.the_user_should_see_a_message(Createdietplan.java:80)
+at ✽.The user should see a message "File uploaded successfully"(file:///C:/Users/amitf/eclipse-workspace/Dieticiansite/src/test/resources/feature/createdietplan.feature:49)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="43" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to upload a file with incorrect file format and proper size"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [PDF files within the size limit of 2MB] but found [Only files with extension .pdf are allowed]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [PDF files within the size limit of 2MB] but found [Only files with extension .pdf are allowed]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at stepdefinition.Createdietplan.the_user_should_see_an_error_message(Createdietplan.java:93)
+at ✽.The user should see an error message "Only files with extension .pdf are allowed"(file:///C:/Users/amitf/eclipse-workspace/Dieticiansite/src/test/resources/feature/createdietplan.feature:56)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="37" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to upload a file with proper file format and incorrect size"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [PDF files within the size limit of 2MB] but found [PDF files exceeding the size limit of 2MB]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [PDF files within the size limit of 2MB] but found [PDF files exceeding the size limit of 2MB]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at stepdefinition.Createdietplan.the_user_should_see_an_error_message(Createdietplan.java:93)
+at ✽.The user should see an error message "PDF files exceeding the size limit of 2MB"(file:///C:/Users/amitf/eclipse-workspace/Dieticiansite/src/test/resources/feature/createdietplan.feature:63)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="38" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to upload a file with incorrect file format and incorrect size"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [PDF files within the size limit of 2MB] but found [Only files with extension .pdf are allowed]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [PDF files within the size limit of 2MB] but found [Only files with extension .pdf are allowed]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1413)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at stepdefinition.Createdietplan.the_user_should_see_an_error_message(Createdietplan.java:93)
+at ✽.The user should see an error message "Only files with extension .pdf are allowed"(file:///C:/Users/amitf/eclipse-workspace/Dieticiansite/src/test/resources/feature/createdietplan.feature:70)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the selection of health conditions in options 1 and 2"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="41" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to update health conditions in option 1"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to update the health conditions in option 1 without selecting health conditions"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:19 CDT" duration-ms="34" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to update health conditions in option 2"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:19 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="30" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to update the health conditions in option 2 without selecting health conditions"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="37" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the Menu is generated after updating health conditions in option 1"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="31" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the Menu is generated after updating health conditions in option 2"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the Menu is generated without updating health conditions in option 1"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the Menu is generated without updating health conditions in option 2"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Create New Diet Plan page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of View Recent Diets page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="26" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the navigation of View recent diets page from Dietician homepage"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="24" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the visibility of heading and records in View Recent Diets page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the working of next page and previous page buttons when more than one page is displayed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the working of previous and next page buttons when one page is displayed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="22" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test the working of next page and previous page buttons when the user is on last page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="20" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to traverse front and back using next and previous page buttons"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="27" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to click on view pdf"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T08:15:20 CDT" duration-ms="22" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Test if the user is able to download the pdf"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["View Recent Diets page functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.Allure@7495699f]" started-at="2022-06-20T08:15:20 CDT" name="tearDownClass" finished-at="2022-06-20T08:15:20 CDT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.Allure -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
