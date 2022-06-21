@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="68" passed="64" failed="4" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-20T22:40:01 CDT" name="Default suite" finished-at="2022-06-20T22:40:08 CDT" duration-ms="6775">
+  <suite started-at="2022-06-21T13:23:02 CDT" name="Default suite" finished-at="2022-06-21T13:23:07 CDT" duration-ms="5020">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2022-06-20T22:40:01 CDT" name="Default test" finished-at="2022-06-20T22:40:08 CDT" duration-ms="6775">
+    <test started-at="2022-06-21T13:23:02 CDT" name="Default test" finished-at="2022-06-21T13:23:07 CDT" duration-ms="5020">
       <class name="runner.Allure">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:01 CDT" name="setUpClass" finished-at="2022-06-20T22:40:02 CDT" duration-ms="1139" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:02 CDT" name="setUpClass" finished-at="2022-06-21T13:23:03 CDT" duration-ms="839" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@110b7837]]>
+                <![CDATA[org.testng.TestRunner@43d65a81]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:03 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:03 CDT" duration-ms="802" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:03 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:03 CDT" duration-ms="659" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:03 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="192" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:03 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="160" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="95" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="83" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -69,7 +69,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="59" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="44" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -85,7 +85,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="79" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="49" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -101,7 +101,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="66" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="47" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -117,7 +117,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="57" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="52" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -133,7 +133,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="57" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="66" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -149,7 +149,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="55" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="54" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -165,7 +165,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="39" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="60" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -181,7 +181,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="44" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="52" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -197,7 +197,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="53" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="73" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -213,7 +213,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="82" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="76" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -229,7 +229,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:04 CDT" duration-ms="62" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:04 CDT" duration-ms="47" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -245,7 +245,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="63" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:04 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="43" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -261,7 +261,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="53" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="56" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -277,7 +277,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="60" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="31" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -293,7 +293,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="46" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="41" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -309,7 +309,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="55" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="33" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -325,7 +325,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="70" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="28" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -341,7 +341,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="41" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="27" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -357,7 +357,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="72" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="44" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -373,7 +373,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="116" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="44" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -389,7 +389,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="56" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="29" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -405,7 +405,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="88" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="53" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -421,7 +421,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="120" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="55" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -454,7 +454,7 @@ at ✽.The user should see a message "File uploaded successfully"(file:///C:/Use
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:05 CDT" duration-ms="51" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="42" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -487,7 +487,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="51" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="57" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -520,7 +520,7 @@ at ✽.The user should see an error message "PDF files exceeding the size limit 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="51" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="54" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -553,7 +553,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="60" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="73" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -569,7 +569,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="39" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="41" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -585,7 +585,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="53" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:05 CDT" duration-ms="25" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -601,7 +601,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="78" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:05 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="29" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -617,7 +617,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="39" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="24" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -633,7 +633,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="39" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="28" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -649,7 +649,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="65" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="24" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -665,7 +665,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="46" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="26" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -681,7 +681,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="31" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="24" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -697,7 +697,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="82" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="32" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -713,7 +713,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="47" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="22" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -729,7 +729,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="37" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="27" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -745,7 +745,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:06 CDT" duration-ms="69" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="26" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -761,7 +761,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="39" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="48" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -777,7 +777,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="36" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="19" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -793,7 +793,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="32" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="20" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -809,7 +809,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="68" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="37" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -825,7 +825,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="40" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="33" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -841,7 +841,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="36" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="23" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -857,7 +857,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="38" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="21" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -873,7 +873,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="59" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="29" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -889,7 +889,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="67" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="30" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -905,7 +905,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="42" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="27" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -921,7 +921,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="39" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="27" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -937,7 +937,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="44" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="25" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -953,7 +953,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="68" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="34" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -969,7 +969,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="47" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="28" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -985,7 +985,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="27" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="21" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1001,7 +1001,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="29" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="26" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1017,7 +1017,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="37" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="28" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1033,7 +1033,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="56" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="29" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1049,7 +1049,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:07 CDT" duration-ms="40" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="23" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1065,7 +1065,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:08 CDT" duration-ms="28" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:06 CDT" duration-ms="25" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1081,7 +1081,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:08 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:08 CDT" duration-ms="25" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:06 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:07 CDT" duration-ms="34" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1097,7 +1097,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:08 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:08 CDT" duration-ms="36" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:07 CDT" duration-ms="24" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1113,7 +1113,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:08 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:08 CDT" duration-ms="47" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:07 CDT" duration-ms="20" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1129,7 +1129,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:08 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:08 CDT" duration-ms="31" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:07 CDT" duration-ms="51" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1145,7 +1145,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:08 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:08 CDT" duration-ms="185" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:07 CDT" duration-ms="59" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1161,7 +1161,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:08 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-20T22:40:08 CDT" duration-ms="66" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:07 CDT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-06-21T13:23:07 CDT" duration-ms="26" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1177,7 +1177,7 @@ at ✽.The user should see an error message "Only files with extension .pdf are 
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.Allure@22367b8]" started-at="2022-06-20T22:40:08 CDT" name="tearDownClass" finished-at="2022-06-20T22:40:08 CDT" duration-ms="55" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.Allure@41b0ae4c]" started-at="2022-06-21T13:23:07 CDT" name="tearDownClass" finished-at="2022-06-21T13:23:07 CDT" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
