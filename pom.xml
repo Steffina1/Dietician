@@ -90,6 +90,12 @@
     <version>2.18.1</version>
     <scope>test</scope>
 </dependency>
+<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-jenkins -->
+<dependency>
+    <groupId>io.qameta.allure</groupId>
+    <artifactId>allure-jenkins</artifactId>
+    <version>3.24.0</version>
+</dependency>
 
 
 
