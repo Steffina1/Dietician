@@ -4,6 +4,11 @@
   <artifactId>Dieticiansite</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+  
    
   <dependencies>
 
@@ -90,6 +95,7 @@
     <version>2.18.1</version>
     <scope>test</scope>
 </dependency>
+
 
 
 
