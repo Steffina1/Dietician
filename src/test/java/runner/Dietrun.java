@@ -11,7 +11,7 @@ import io.cucumber.testng.CucumberOptions;
 @CucumberOptions(
 		plugin= {"pretty", "html:target/testngreport.html"},
 		glue = "stepdefinition",
-		features = {"src/test/resources/feature/Listofscreens.feature"})
+		features = {"src/test/resources/feature"})
 		
 		
 
